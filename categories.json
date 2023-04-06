@@ -36,8 +36,9 @@
 				"fr":"Nouveau",
 				"nl":"Nieuw",
 				"pt":"Novo",
-				"ar":"جديد",
-				"vi":"Mới"
+		        	"ar":"جديد",
+				"vi":"Mới",
+                                "pl":"Nowy"
 			},
 			"o":1
 		},
@@ -267,7 +268,8 @@
 				"nl":"Aards",
 				"pt":"Terrestre",
 				"ar":"أنسان",
-				"vi":"Trên cạn"
+				"vi":"Trên cạn",
+                                "pl":"lądowe"
 			},
 			"o":30,
 			"p":3
@@ -285,7 +287,8 @@
 				"nl":"Vliegend",
 				"pt":"Aéreo",
 				"ar":"جوي",
-				"vi":"Trên không"
+				"vi":"Trên không",
+                                "pl":"powietrzne"
 			},
 			"o":31,
 			"p":3
@@ -303,7 +306,8 @@
 				"nl":"Aquatisch",
 				"pt":"Aquático",
 				"ar":"مائي",
-				"vi":"Dưới nước"
+				"vi":"Dưới nước",
+                                "pl":"wodne"
 			},
 			"o":32,
 			"p":3
